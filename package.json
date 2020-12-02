@@ -1,0 +1,17 @@
+{
+  "name": "quarphix_test",
+  "version": "1.0.0",
+  "description": "Quarphix Tech Assess",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [
+    "Tax"
+  ],
+  "author": "Kwena Mokgohlwa",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^3.6.3"
+  }
+}
